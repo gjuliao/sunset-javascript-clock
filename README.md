@@ -2,7 +2,7 @@
 
 Website built in html, css and javascript for simulating a clock.
 
-Check the Iz-Sales Site live version here: [live Version](https://gjuliao.github.io/sunset-javascript-clock/)
+Check the live version here: [live Version](https://gjuliao.github.io/sunset-javascript-clock/)
 
 ## Technology
 - Html
