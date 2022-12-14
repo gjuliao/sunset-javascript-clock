@@ -1,6 +1,6 @@
 ## About 
 
-Website built in html, css and javascript for simulating a clock.
+Website built in html, css and javascript for simulating a analogue clock.  Uses query selectors and the transform method for updating the time on each second. 
 
 Check the live version here: [live Version](https://gjuliao.github.io/sunset-javascript-clock/)
 
